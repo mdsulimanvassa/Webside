@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+}
+.logo img{
+    height: 45px;
+    float: left;
+    margin: 20px;
+    margin-left: 130px;
+    margin-top: 40px;
+}
+.link_button{
+background: white;
+text-align: right;
+font-family: sans-serif;
+}
+.link_button ul{
+    list-style: none;
+    display: inline-flex;
+}
+.link_button ul li{
+    width: 100px;
+    margin: 15px;
+    padding: 15px;
+}
+.link_button ul li a{
+    color: olive;
+    text-decoration: none;
+}
+section div.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 50px;
+}
+.frist-area{
+    background-image: url("bg-2.png");
+    background-repeat: no-repeat;
+    background-position-y: 80%;
+    height: 700px;
+}
+.button{
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.banner-1{
+    margin-left: 5%;
+    padding: 80px;
+}
+
+.fa-arrow-right{
+    color: #fff;
+    margin-left: 6px;
+}
+.a{
+    width: 100%;
+}
+.banner{
+    background-image: url("bg-1.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-left: 5px;
+}
+.col-md-4{
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+    box-shadow: 10px 10px 40px ;
+    border-radius: 10px;
+    height: 110%;
+}
+.asd{
+    text-align: center;
+    justify-content: center;
+}
+#aa{
+    margin-top: 85px;
+}
+#ss{
+    margin-top: 35px;
+}
+#dd{
+    margin: 30px;
+}
+.kk{
+    width: 100%;
+    margin-top: 10px;
+    background: none;
+}
+#ll{
+    text-align: center;
+    border: 2px solid red;
+    display: inline-block;
+}
+.width{
+        height: 500px;
+        margin-bottom: 200px;
+        margin-left: 10%;
+}
+.az{
+    height: 5px;
+    width: 10px;
+}
+h6{
+text-align: right;
+margin-right: 100PX;
+margin-top: 30PX;
+color: red;
+}
+.half_width{
+    margin-top: 100px;
+    width: 45%;
+    float: left;
+}
+.half_width img{
+    width: 100%;
+}
+.div-1{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 100px;
+    margin: 80px 80px;
+    box-shadow: 3px 3px 15px gray;
+    padding: 20px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+}
+.div-2{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 100px;
+    margin-left: 80px;
+    box-shadow: 3px 3px 15px gray;
+    padding: 20px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+}
+.div-3{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 230px;
+    box-shadow: 3px 3px 15px gray;
+    padding: 20px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+}
+.width h2{
+    text-align: center;
+}
+.half_width h3{
+    text-align: center;
+}
+.img{
+    margin-top: 100px;
+}
+.background{
+    width: 80px;
+    height: 5px;
+    background-image: linear-gradient(45deg,orange,red);
+    margin-left: 47%;
+    border-radius: 3px;
+}
